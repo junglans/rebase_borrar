@@ -5,7 +5,5 @@
 5 - mas cambios.
 6 - Esto es otro ejemplo de rebase
 8 - Esto no lo entiendo bien....
-9 - A ver si nos aclaramos.
 10 - Otra línea mas.
-11 - ¿¿??
-
+11 - Más líneas
